@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "final project"
+version = "0.1.0"
+description = ""
+authors = ["revanth0017 <pamula22@students.rowan.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.32.3"
+ruff = "^0.8.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
