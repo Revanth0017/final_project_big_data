@@ -6,14 +6,14 @@ This project showcases a complete data pipeline for analyzing stock exchange dat
 
 ## 📁 Project Structure
 final_project_big_data/
-├── .gitignore
-├── cassandradb-token.json
-├── exchange_data.csv # Raw stock market data
-├── MedallionArchitectureTables.ipynb # Main Jupyter notebook for the pipeline
-├── poetry.lock
-├── pyproject.toml # Poetry config for dependencies
-├── RawData/ # Additional raw data (if any)
-├── secure-connect-cassandradb.zip # Secure bundle for Cassandra DB
+.gitignore
+cassandradb-token.json
+exchange_data.csv # Raw stock market data
+MedallionArchitectureTables.ipynb # Main Jupyter notebook for the pipeline
+poetry.lock
+pyproject.toml # Poetry config for dependencies
+RawData/ # Additional raw data (if any)
+secure-connect-cassandradb.zip # Secure bundle for Cassandra DB
 
 ## ⚙️ Tech Stack
 
